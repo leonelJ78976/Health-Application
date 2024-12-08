@@ -1,0 +1,24 @@
+{
+  "devDependencies": {
+    "@react-native-community/cli": "^15.1.1",
+    "gh-pages": "^6.2.0"
+  },
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "^2.0.0",
+    "@react-native-picker/picker": "^2.10.1",
+    "@react-navigation/bottom-tabs": "^7.0.0",
+    "@react-navigation/stack": "^7.0.0",
+    "axios": "^1.7.7",
+    "bcrypt": "^5.1.1",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^6.10.0",
+    "mongoose": "^8.8.3",
+    "react-native-gesture-handler": "^2.20.2",
+    "react-native-progress": "^5.0.1",
+    "react-native-reanimated": "^3.16.1"
+  }
+}
